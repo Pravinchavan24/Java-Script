@@ -1,13 +1,13 @@
 const accountId = 144553;
 let accountEmail = "pravinchavan@gamil.com";
 var accountpassword ="123456";
-accountCity ="Pune"
+accountCity ="Sambhajinagar";
 
 // accountId = 2; // not allowed
 
-accountEmail = "pc@gmail.com"
-accountpassword = "12345678"
-accountCity = "Mumbai"
+accountEmail = "pc@gmail.com";
+accountpassword = "12345678";
+accountCity = "Mumbai";
 
 console.log(accountId);
 

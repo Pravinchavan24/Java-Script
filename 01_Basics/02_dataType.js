@@ -9,10 +9,10 @@ let age = 20
 let isLoggedIn = true
 
 // number => 2 to power 53
-// bigint
+// bigint   
 // string => ""
 // boolean => true/false
-// null => standalone value
+// null => standalone value     
 // undefined =>
 
 // symbol => unique
